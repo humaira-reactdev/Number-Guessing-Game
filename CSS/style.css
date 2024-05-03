@@ -1,0 +1,75 @@
+/* ============FONT IMPORT================ */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+/* ============FONT IMPORT================ */
+
+
+/* ====================COMMON CSS START============ */
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #7ED7C1;
+    flex-direction: column;
+}
+
+h1{
+    font-family: "Source Code Pro", monospace;
+}
+
+h3{
+    font-family: "Source Code Pro", monospace;
+    text-align: center;
+
+}
+
+span{
+    color: deeppink
+}
+.error{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Source Code Pro", monospace;
+    color: red ;
+}   
+
+.userInput{
+    padding: 50px;
+    width: 500px;
+    border-radius: 20px;
+    border: #982176;
+    text-align: center;
+    background: #810034;
+}
+
+.playerInput{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    font-family: "Source Code Pro", monospace;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+.button{
+    width: 100%;
+    margin-top: 20px;
+    background: #FF5F9E;
+    color: antiquewhite;
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: "Source Code Pro", monospace;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+
+.playerTwo{
+    display: none;
+}
+
+
