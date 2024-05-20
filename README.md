@@ -20,7 +20,7 @@
 ### :dart: Features
 - Three-player interactive gameplay
 - Simple and intuitive user interface
-- Real-time feedback on guesses
+- Shows number of attempts/chances taken
 
 
 ### :art: Color Reference
