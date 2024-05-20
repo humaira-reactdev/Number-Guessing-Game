@@ -41,10 +41,8 @@
 ## :grey_question: How to play
 
 - Player 1 enters a number between 1 and 100 (the number is hidden from Player 2 and Player 3).
-- Player 2 has five attempts to guess the number. After each guess, Player 2 receives feedback: "Too high!" if the guess is greater than the chosen number. "Too low!" if the guess is less than the chosen number. "Correct!" if the guess matches the chosen number.
-- If Player 2 guesses the number within five attempts, Player 2 wins.
+- Player 2 has five attempts to guess the number. 
 - If Player 2 fails to guess the number in five attempts, Player 3 gets five attempts.
-- Player 3 receives the same feedback as Player 2 after each guess.
 - If Player 3 guesses the number within five attempts, Player 3 wins.
 - If neither Player 2 nor Player 3 guesses the number in their respective attempts, Player 1 wins.
 
